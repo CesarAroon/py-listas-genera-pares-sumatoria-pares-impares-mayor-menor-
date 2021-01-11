@@ -1,0 +1,1 @@
+# py-listas-genera-pares-sumatoria-pares-impares-mayor-menor-
